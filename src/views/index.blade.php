@@ -24,7 +24,7 @@
 			<div class="row">
 				 <div class="col-lg-7 col-md-7 col-12 m-auto">
 				 	<div class="card topBox">
-				 		<div class="card-header text-danger font-weight-bold">Contact Form</div>
+				 		<div class="card-header text-danger font-weight-bold">Contact Us</div>
 				 		<div class="card-body">
 				 			<form id="contactForm" method="post">
 				 				@csrf
