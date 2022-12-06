@@ -1,0 +1,19 @@
+{
+    "name": "kashana/contact",
+    "description": "this will crea",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abhay_kash",
+            "email": "abhishek.kashana@arkasoftwares.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kashana\\Contact\\": "src/"
+        }
+    }
+}
